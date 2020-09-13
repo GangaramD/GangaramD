@@ -1,9 +1,9 @@
 ## Hi there, I'm Gangaram Dewasi 👋
 
 ### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
-- 🔭 I’m currently working on a Best Practices for Devops
+- 🔭 I’m currently working on best Practices for Devops
 - 🌱 I’m currently learning all and everything 🤣
-- 👯 I’m looking to collaborate with other content creators and learn more from them
+- 👯 I’m looking to collaborate with content creators and learn more from them
 - 🥅 2020 Goals: Learn as much as possible in these pandemic. 
 - ⚡ Fun fact: I love to READ 
 
