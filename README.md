@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**GangaramD/GangaramD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## Hi there, I'm Gangaram Dewasi 👋
 
 ### I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
@@ -66,4 +62,3 @@
 [jenkins]: https://www.youtube.com/watch?v=d6BU8LBc9Ow&list=PLLYW3zEOaqlKmPyhjIrT4RmmQDQYYrTjk
 [git]: https://www.youtube.com/watch?v=nmMAwnd_2sw&list=PLLYW3zEOaqlKUfyVXBcitHTMul3XcfhoZ
 [endtoend]: https://www.youtube.com/watch?v=fsvjTekaQVE&list=PLLYW3zEOaqlICpMHCGAKG2V-SwX1aZCH5
--->
